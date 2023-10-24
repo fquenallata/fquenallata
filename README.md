@@ -1,7 +1,5 @@
 <h1 align="center">Hola 👋, soy Franco Quenallata</h1>
 
-![header_github](https://raw.githubusercontent.com/CabreraBrian/CabreraBrian/main/banner.png)
-
 # Acerca de mi:
 Soy un desarrollador Full Stack con enfoque tanto en el desarrollo Front-end como en el Back-end. Estoy abierto a continuar mi educación, aprender nuevas tecnologías que me ayuden a crecer profesionalmente y ansioso por trabajar en proyectos que desafíen al máximo mis habilidades. ¡Contáctame y trabajemos juntos!
 
