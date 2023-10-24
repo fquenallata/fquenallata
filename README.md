@@ -1,18 +1,17 @@
-<h1 align="center">Hi 👋, I'm Brian Cabrera </h1>
+<h1 align="center">Hola 👋, soy Franco Quenallata</h1>
 
 ![header_github](https://raw.githubusercontent.com/CabreraBrian/CabreraBrian/main/banner.png)
 
-# About me:
-I'm a Full Stack developer with a focus on both Front-end and Back-end development. I'm open to continuing my education, learning new technologies that will help me grow professionally, and eager to work on projects that challenge my skills to their fullest. Contact me and word together!
+# Acerca de mi:
+Soy un desarrollador Full Stack con enfoque tanto en el desarrollo Front-end como en el Back-end. Estoy abierto a continuar mi educación, aprender nuevas tecnologías que me ayuden a crecer profesionalmente y ansioso por trabajar en proyectos que desafíen al máximo mis habilidades. ¡Contáctame y trabajemos juntos!
 
-- 🔭 I'm currently working on React, Redux proyects
-- 🌱 I'm currently learning new front-end techs
-- 💬 Ask me about JavaScript, HTML, CSS, React, Redux
+-🔭 Actualmente estoy trabajando en proyectos de React y Redux.
+-🌱 Actualmente estoy aprendiendo nuevas tecnologías de Front-end.
+-💬 Pregúntame acerca de JavaScript, HTML, CSS, React, Redux.
 
-# 🚀 Featured projects:
-- [GreenScreen🎬🍿](https://github.com/MoviesPf/MoviesFront)
-- [VideoGames 🎮🕹️](https://github.com/CabreraBrian/PI-Videogames-main)
-- [RickandMorty🛸🧪](https://github.com/CabreraBrian/Rick-Morty)
+# 🚀 Proyectos destacados:
+- [HopPassion](https://github.com/PF-Henry2023/HopPassion_Client.git)
+- [VideoGames 🎮🕹️](https://github.com/fquenallata/videoGamesApi)
 
 # 📊 GitHub Stats:
 <div align="center">
@@ -24,7 +23,7 @@ I'm a Full Stack developer with a focus on both Front-end and Back-end developme
 <p/>
 <div/>
 
-# 💻 Languages and Tools:
+# 💻 Lenguajes y Herramientas:
 <div align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="javascript logo"  />
   <img width="12" />
@@ -58,7 +57,7 @@ I'm a Full Stack developer with a focus on both Front-end and Back-end developme
     alt="example" />
 </p>
 
-# Contact me!
+# Contactame!
 <div align="center">
   <a href="https://www.linkedin.com/in/brian-cabrera-159973292/" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo"  />
