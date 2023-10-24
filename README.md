@@ -62,7 +62,7 @@ Soy un desarrollador Full Stack con enfoque tanto en el desarrollo Front-end com
   </a>
   <a href="mailto:quenallatafranco@gmail.com" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="52" height="40" alt="Gmail Logo" />
-</a>
+  </a>
 </div>
 
 ###
