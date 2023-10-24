@@ -1,11 +1,11 @@
 <h1 align="center">Hola 👋, soy Franco Quenallata</h1>
 
 # Acerca de mi:
-Soy un desarrollador Full Stack con enfoque tanto en el desarrollo Front-end como en el Back-end. Estoy abierto a continuar mi educación, aprender nuevas tecnologías que me ayuden a crecer profesionalmente y ansioso por trabajar en proyectos que desafíen al máximo mis habilidades. ¡Contáctame y trabajemos juntos!
+Soy un desarrollador Full Stack con enfoque tanto en el desarrollo Front-end como en el Back-end. Estoy abierto a continuar mi educación, aprender nuevas tecnologías que me ayuden a crecer profesionalmente y estoy ansioso por trabajar en proyectos que desafíen al máximo mis habilidades. ¡Contáctame y trabajemos juntos!
 
 -🔭 Actualmente estoy trabajando en proyectos de React y Redux.
 -🌱 Actualmente estoy aprendiendo nuevas tecnologías de Front-end.
--💬 Pregúntame acerca de JavaScript, HTML, CSS, React, Redux.
+-💬 Puedes consultarme acerca de JavaScript, HTML, CSS, React, Redux.
 
 # 🚀 Proyectos destacados:
 - [HopPassion](https://github.com/PF-Henry2023/HopPassion_Client.git)
@@ -60,9 +60,9 @@ Soy un desarrollador Full Stack con enfoque tanto en el desarrollo Front-end com
   <a href="https://www.linkedin.com/in/franco-quenallata-2a2a11270/" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo"  />
   </a>
-  <a href="quenallatafranco@gmail.com" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="52" height="40" alt="gmail logo"  />
-  </a>
+  <a href="mailto:quenallatafranco@gmail.com" target="_blank">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="52" height="40" alt="Gmail Logo" />
+</a>
 </div>
 
 ###
