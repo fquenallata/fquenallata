@@ -14,12 +14,12 @@ Soy un desarrollador Full Stack con enfoque tanto en el desarrollo Front-end com
 # 📊 GitHub Stats:
 <div align="center">
 <p align="center">
-  <img align="center"m src="https://github-readme-stats.vercel.app/api/top-langs/?username=CabreraBrian&theme=vision-friendly-dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact"/>  
-<p/>
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=fquenallata&theme=vision-friendly-dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact"/>  
+</p>
 <p align="center">
-  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=CabreraBrian&theme=vision-friendly-dark&hide_border=false"/>  
-<p/>
-<div/>
+  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=fquenallata&theme=vision-friendly-dark&hide_border=false"/>  
+</p>
+</div>
 
 # 💻 Lenguajes y Herramientas:
 <div align="center">
